@@ -23,8 +23,12 @@
     -   Formula: CCC=DIO+DSO−DPOCCC=DIO+DSO−DPO
 
 -   **Inventory Turnover**:
-    $$Inventory\,Turnover = \frac{Cost\,of\,Goods\,Sold}{Average\,Inventory}$$
-    $$Inventory turnover ratio = cost of goods sold in period / [(opening stock in period-closing stock in period) / 2]##
+    $$
+    Inventory\,Turnover = \frac{Cost\,of\,Goods\,Sold}{Average\,Inventory}
+    $$
+    $$
+    Inventory turnover ratio = cost of goods sold in period / [(opening stock in period-closing stock in period) / 2]
+    $$
     -   Measures how efficiently a company manages its inventory.
     -   Formula: Inventory Turnover=Cost of Goods SoldAverage 
 -   **Accounts Receivable Turnover**:
