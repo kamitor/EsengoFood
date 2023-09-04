@@ -79,8 +79,10 @@ At Esengo, our mission isn't just about making profits; it's about creating a su
 -   **Working Capital Ratio**:
     
     -   Measures a company's operational efficiency and short-term financial health.
-    -   Formula: Working Capital Ratio=Current AssetsCurrent LiabilitiesWorkingCapitalRatio=CurrentLiabilitiesCurrentAssets​
-
+    -   Formula: 
+    $$
+    `Working\,Capital\,Ratio = \frac{Current\,Assets}{Current\,Liabilities}`
+  $$
 -   **Cash Conversion Cycle (CCC)**:
     
     -   A variation of the C2C that includes the time it takes to pay suppliers and considers the entire cash flow cycle.
@@ -136,6 +138,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDYwOTAzMywtMTUwODU0NDI3OSwtMT
-E3NjIwMDU4N119
+eyJoaXN0b3J5IjpbLTEwNTI0ODgzMDMsLTE1MDg1NDQyNzksLT
+ExNzYyMDA1ODddfQ==
 -->
