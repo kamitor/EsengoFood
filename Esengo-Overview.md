@@ -16,7 +16,7 @@ The digital transformation of agriculture is well underway, with the global smar
 
 Esengo is uniquely positioned to tap into this massive market. By providing farmers with essential resources, data-driven insights, and direct access to buyers, we empower them to boost their yields and income. As we bring these advantages to small-scale farmers across Africa and beyond, we aim to be at the forefront of driving positive change in the agricultural industry.
 
-Unique Advantage: Esengo's unique advantage lies in its client-centric approach and the integration of Verifiable Credentials (VCs) into its core functionalities. Unlike traditional supply chain solutions, Esengo prioritises the individual user, allowing them to maintain control over their identity and data. This empowers users to engage confidently in supply chain transactions while ensuring their privacy and security, without revealing their internal business operations. This unique feature makes Esengo the only initiative worldwide that wants the supply chain to stay siloed, working with the current supply chain process and incentives instead of going against it.
+**Unique Advantage:** Esengo's unique advantage lies in its client-centric approach and the integration of Verifiable Credentials (VCs) into its core functionalities. Unlike traditional supply chain solutions, Esengo prioritises the individual user, allowing them to maintain control over their identity and data. This empowers users to engage confidently in supply chain transactions while ensuring their privacy and security, without revealing their internal business operations. This unique feature makes Esengo the only initiative worldwide that wants the supply chain to stay siloed, working with the current supply chain process and incentives instead of going against it.
 
 The incorporation of VCs enhances trust and transparency within the supply chain. Users can securely exchange information and credentials, such as product certifications or transaction records, with ease. This not only streamlines business processes but also fosters trust among stakeholders.
 
@@ -123,7 +123,5 @@ graph TD
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjI4NDYzNiw3NTE1MDQ1NDksLTEyOT
-A3OTIxNTksNjM5MzE0NTE0LDg3NDUxMjQ2MiwtMTUwODU0NDI3
-OSwtMTE3NjIwMDU4N119
+eyJoaXN0b3J5IjpbLTE2MjExMzU5NjRdfQ==
 -->
