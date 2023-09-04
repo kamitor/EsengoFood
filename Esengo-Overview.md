@@ -65,7 +65,8 @@ At Esengo, our mission isn't just about making profits; it's about creating a su
 
 **5. Grants and Impact Investment:** As we're dedicated to addressing global food security and empowering farmers, we actively seek grants and impact investment opportunities from organizations, governments, and institutions aligned with our mission.
 
-These grants are cur
+For Grants we are currently looking at:
+https://github.com/kamitor/EsengoFood/blob/master/Grants%20Esengo.md
 
 **6. Value-Added Services:** Beyond our core offerings, we explore opportunities to provide value-added services to farmers, such as access to finance, training modules, or premium market insights, offered on a fee basis.
 
@@ -116,7 +117,7 @@ graph TD
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTczNTcyNjgsLTEyOTA3OTIxNTksNj
-M5MzE0NTE0LDg3NDUxMjQ2MiwtMTUwODU0NDI3OSwtMTE3NjIw
-MDU4N119
+eyJoaXN0b3J5IjpbMTQ3OTEwMzQyNywtMTI5MDc5MjE1OSw2Mz
+kzMTQ1MTQsODc0NTEyNDYyLC0xNTA4NTQ0Mjc5LC0xMTc2MjAw
+NTg3XX0=
 -->
