@@ -57,13 +57,15 @@ At Esengo, our mission isn't just about making profits; it's about creating a su
 
 **1. Subscription Model:** Farmers are the heart of our platform. To access the full suite of Esengo-ID and Esengo Trading Platform features, farmers can subscribe to our services at a reasonable monthly fee. This model ensures that we remain accessible to even the smallest of farmers while providing a stable revenue stream. This subscription fee is done in the form of a token, which will be given to farmers at their initial start. 
 
-**2. Marketplace Transaction Fees:** For every successful transaction facilitated through the Esengo Trading Platform, we charge a small transaction fee. This fee ensures that we remain financially sustainable while incentivizing the use of our platform for trade.
+**2. Marketplace Transaction Fees:** For every successful transaction facilitated through the Esengo Trading Platform, we charge a small transaction fee. This fee ensures that we remain financially sustainable while incentivizing the use of our platform for trade. This is also supplied with a token, which the farmers generate by creating new products. 
 
 **3. Data Insights and Analytics:** Our platform collects vast amounts of data regarding crop trends, market demand, and supply chain dynamics. Aggregated and anonymized, this data holds tremendous value for agricultural businesses, policymakers, and researchers. We offer subscription-based access to these insights, creating an additional revenue stream.
 
 **4. Partner Collaborations:** We collaborate with various partners in the agricultural and technology sectors. These collaborations can take the form of joint ventures, co-development projects, or data-sharing agreements, creating opportunities for revenue generation while expanding our reach.
 
 **5. Grants and Impact Investment:** As we're dedicated to addressing global food security and empowering farmers, we actively seek grants and impact investment opportunities from organizations, governments, and institutions aligned with our mission.
+
+These grants are cur
 
 **6. Value-Added Services:** Beyond our core offerings, we explore opportunities to provide value-added services to farmers, such as access to finance, training modules, or premium market insights, offered on a fee basis.
 
@@ -114,7 +116,7 @@ graph TD
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxMDY3MjEyLC0xMjkwNzkyMTU5LDYzOT
-MxNDUxNCw4NzQ1MTI0NjIsLTE1MDg1NDQyNzksLTExNzYyMDA1
-ODddfQ==
+eyJoaXN0b3J5IjpbLTE5OTczNTcyNjgsLTEyOTA3OTIxNTksNj
+M5MzE0NTE0LDg3NDUxMjQ2MiwtMTUwODU0NDI3OSwtMTE3NjIw
+MDU4N119
 -->
