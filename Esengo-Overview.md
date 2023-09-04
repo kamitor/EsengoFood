@@ -67,12 +67,12 @@ At Esengo, our mission isn't just about making profits; it's about creating a su
 
 
 
-## KaTeX
+## Research Topics
 
 -   **cash-to-Cash Cycle Time (C2C)**:
     
     -   Measures the time it takes for a company to convert its investments in inventory and other resources into cash flow from sales.
-    -   Formula: C2C=DIO+DSO−DPOC2C=DIO+DSO−DPO
+    -   Formula: $$C2C=DIO+DSO−DPOC2C=DIO+DSO−DPO$$
         -   DIO (Days Inventory Outstanding): Average number of days it takes to sell inventory.
         -   DSO (Days Sales Outstanding): Average number of days it takes to collect payment from customers.
         -   DPO (Days Payables Outstanding): Average number of days it takes to pay suppliers.
@@ -80,6 +80,7 @@ At Esengo, our mission isn't just about making profits; it's about creating a su
     
     -   Measures a company's operational efficiency and short-term financial health.
     -   Formula: Working Capital Ratio=Current AssetsCurrent LiabilitiesWorkingCapitalRatio=CurrentLiabilitiesCurrentAssets​
+
 -   **Cash Conversion Cycle (CCC)**:
     
     -   A variation of the C2C that includes the time it takes to pay suppliers and considers the entire cash flow cycle.
@@ -135,6 +136,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc5OTY1NzUsLTE1MDg1NDQyNzksLT
-ExNzYyMDA1ODddfQ==
+eyJoaXN0b3J5IjpbLTM5MDYwOTAzMywtMTUwODU0NDI3OSwtMT
+E3NjIwMDU4N119
 -->
