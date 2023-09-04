@@ -69,6 +69,35 @@ At Esengo, our mission isn't just about making profits; it's about creating a su
 
 ## KaTeX
 
+-   **cash-to-Cash Cycle Time (C2C)**:
+    
+    -   Measures the time it takes for a company to convert its investments in inventory and other resources into cash flow from sales.
+    -   Formula: C2C=DIO+DSO−DPOC2C=DIO+DSO−DPO
+        -   DIO (Days Inventory Outstanding): Average number of days it takes to sell inventory.
+        -   DSO (Days Sales Outstanding): Average number of days it takes to collect payment from customers.
+        -   DPO (Days Payables Outstanding): Average number of days it takes to pay suppliers.
+-   **Working Capital Ratio**:
+    
+    -   Measures a company's operational efficiency and short-term financial health.
+    -   Formula: Working Capital Ratio=Current AssetsCurrent LiabilitiesWorkingCapitalRatio=CurrentLiabilitiesCurrentAssets​
+-   **Cash Conversion Cycle (CCC)**:
+    
+    -   A variation of the C2C that includes the time it takes to pay suppliers and considers the entire cash flow cycle.
+    -   Formula: CCC=DIO+DSO−DPOCCC=DIO+DSO−DPO
+-   **Inventory Turnover**:
+    
+    -   Measures how efficiently a company manages its inventory.
+    -   Formula: Inventory Turnover=Cost of Goods SoldAverage InventoryInventoryTurnover=AverageInventoryCostofGoodsSold​
+-   **Accounts Receivable Turnover**:
+    
+    -   Measures how quickly a company collects payments from customers.
+    -   Formula: Accounts Receivable Turnover=Net SalesAverage Accounts ReceivableAccountsReceivableTurnover=AverageAccountsReceivableNetSales​
+-   **Accounts Payable Turnover**:
+    
+    -   Measures how quickly a company pays its suppliers.
+    -   Formula: Accounts Payable Turnover=Cost of Goods SoldAverage Accounts PayableAccountsPayableTurnover=AverageAccountsPayableCostofGoodsSold​
+
+
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
 
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
@@ -106,6 +135,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg1NDQyNzksLTExNzYyMDA1ODddfQ
-==
+eyJoaXN0b3J5IjpbLTE4NDc5OTY1NzUsLTE1MDg1NDQyNzksLT
+ExNzYyMDA1ODddfQ==
 -->
