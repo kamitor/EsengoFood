@@ -90,8 +90,9 @@ At Esengo, our mission isn't just about making profits; it's about creating a su
 
 -   **Inventory Turnover**:
     $$Inventory\,Turnover = \frac{Cost\,of\,Goods\,Sold}{Average\,Inventory}$$
+    $$Inventory turnover ratio = cost of goods sold in period / [(opening stock in period-closing stock in period) / 2]##
     -   Measures how efficiently a company manages its inventory.
-    -   Formula: Inventory Turnover=Cost of Goods SoldAverage InventoryInventoryTurnover=AverageInventoryCostofGoodsSold​
+    -   Formula: Inventory Turnover=Cost of Goods SoldAverage 
 -   **Accounts Receivable Turnover**:
     $$Accounts\,Receivable\,Turnover = \frac{Net\,Sales}{Average\,Accounts\,Receivable}$$
     -   Measures how quickly a company collects payments from customers.
@@ -140,6 +141,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5NzIxNTg2LC0xNTA4NTQ0Mjc5LC0xMT
+eyJoaXN0b3J5IjpbODc0NTEyNDYyLC0xNTA4NTQ0Mjc5LC0xMT
 c2MjAwNTg3XX0=
 -->
