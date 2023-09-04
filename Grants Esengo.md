@@ -9,7 +9,7 @@
 | Sustainable Futures     | Business plan, impact assessment      | 2023-10-30 | Not yet started | [Link to Grant 3](#)         | [Link to Working Doc 3](#)  |
 | Innovation Catalyst     | Concept paper, financial projections  | 2023-12-15 | Draft           | [Link to Grant 4](#)         | [Link to Working Doc 4](#)  |
 | Global Solutions Fund   | Grant application, project timeline   | 2023-11-20 | Submitted       | [Link to Grant 5](#)         | [Link to Working Doc 5](#)  |
-
+v
 
 ## EUROPE exluding netherlands
 
@@ -33,5 +33,5 @@
 | Netherlands Innovators     | Detailed project proposal, CV         | 2023-10-25 | Rejected        | [Link to Grant 5](#)         | [Link to Working Doc 5](#)  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzYwNDU3N119
+eyJoaXN0b3J5IjpbLTEyMTgzODY3NywxNDQ3NjA0NTc3XX0=
 -->
