@@ -81,14 +81,15 @@ At Esengo, our mission isn't just about making profits; it's about creating a su
     -   Measures a company's operational efficiency and short-term financial health.
     -   Formula: 
     $$
-    `Working\,Capital\,Ratio = \frac{Current\,Assets}{Current\,Liabilities}`
+    Working\,Capital\,Ratio = \frac{Current\,Assets}{Current\,Liabilities}
   $$
 -   **Cash Conversion Cycle (CCC)**:
     
     -   A variation of the C2C that includes the time it takes to pay suppliers and considers the entire cash flow cycle.
     -   Formula: CCC=DIO+DSO−DPOCCC=DIO+DSO−DPO
+
 -   **Inventory Turnover**:
-    
+    $$Inventory\,Turnover = \frac{Cost\,of\,Goods\,Sold}{Average\,Inventory}$$
     -   Measures how efficiently a company manages its inventory.
     -   Formula: Inventory Turnover=Cost of Goods SoldAverage InventoryInventoryTurnover=AverageInventoryCostofGoodsSold​
 -   **Accounts Receivable Turnover**:
@@ -138,6 +139,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI0ODgzMDMsLTE1MDg1NDQyNzksLT
+eyJoaXN0b3J5IjpbLTE5NzU3MTg4NTQsLTE1MDg1NDQyNzksLT
 ExNzYyMDA1ODddfQ==
 -->
