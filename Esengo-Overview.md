@@ -1,21 +1,26 @@
 
 ## Esengo Food Trading Platform
+Imagine being a farmer: The early mornings, the backbreaking labor, and the hope that your sweat and toil will yield enough to support your family. Now, imagine doing all of this without knowing whether you'll find buyers, secure finance, or even know what to plant and when. That's the reality for millions of small-scale farmers worldwide, and it's a problem begging for a solution.
 
-**Imagine being a farmer:** The early mornings, the backbreaking labor, and the hope that your sweat and toil will yield enough to support your family. Now, imagine doing all of this without knowing whether you'll find buyers, secure finance, or even know what to plant and when. That's the reality for millions of small-scale farmers worldwide, and it's a problem begging for a solution.
+**The Problem:** Small-scale farmers often face a daunting challenge – the lack of access to crucial resources and information. They struggle to secure the financing needed to invest in their crops, grapple with uncertainty about market demand, and face the constant dilemma of what to grow and when. In this complex web, they're often left at the mercy of middlemen who take significant shares of their hard-earned profits. The problem is simple in nature, but hard in practice: It’s very difficult to farm, when you don’t know what people want, how much it should cost and when they would want it. This gets compounded, with additional things like carbon emissions, certification requirements, transparency and sustainability, as farmers have almost no metric to compete on besides Kilo / Quality per product.
 
-**The Problem**: Small-scale farmers often face a daunting challenge – the lack of access to crucial resources and information. They struggle to secure the financing needed to invest in their crops, grapple with uncertainty about market demand, and face the constant dilemma of what to grow and when. In this complex web, they're often left at the mercy of middlemen who take significant shares of their hard-earned profits.
+**Our Vision:** At Esengo, we're driven by a vision of empowerment. We envision a world where every farmer has the tools and knowledge to thrive. We're not just developing an app; we're cultivating a movement. A movement that provides farmers with the vital resources, information, and connections they need to break free from the cycle of uncertainty and financial instability.
 
-**Our Vision:** At Esengo, we're driven by a vision of empowerment. We envision a world where farmers don't just have the tools and knowledge to thrive. But to actively help farming in general, to become more (financially, ecologically and logistically) sustainable, by doing only one thing. To make the farming "game" fair; And it's not necessarily about higher prices; It's about moving barriers, gaining honestly and allowing people to compete on secondary factors (production method, distance, Emissions, water-usage, reputation)  as well as the main one.   We're not just developing an app; we're cultivating a movement. A movement that provides farmers with the vital resources, information, and connections they need to break free from the cycle of uncertainty and financial instability. 
+**The Esengo Solution:** Picture an app that becomes your farming ally. Esengo-ID isn't just about tracing your food's journey; it's about transforming the way farmers do business. It connects them with buyers, helping them secure fair prices and create stable incomes. With the Esengo Trading Platform, farmers can discover what crops are in demand and when, so they can make informed decisions. It's like having a digital partner to navigate the complexities of farming in the modern world.
 
-**The Esengo Solution:** Picture an app that becomes your farming ally. Esengo-ID isn't just about helping tracing your food's journey; it's about transforming the way farmers do business. It connects them with buyers, helping them secure fair prices and create stable incomes. It helps deal with logistical transport, it helps them to plan for the next season, it allows them to ask for loans and funding, and it helps them find the right things to do. With the Esengo Trading Platform, farmers can discover what crops are in demand and when, so they can make informed decisions. It's like having a digital partner to navigate the complexities of farming in the modern world.
+To make this financially viable we have Marketplace Transaction Fees, a subscription Model and other value-adding features with a focus on Data Insights and Analytics and (cryptographic) Escrow services. These fees and subscription models are created in such a way that the first mile pays nothing or close to nothing for these services, incentivising usage.
 
-**Why Esengo Matters**: We're passionate about leveling the playing field for small-scale farmers. By reducing uncertainty, providing access to markets, and fostering financial stability, we're changing lives. Imagine a world where farmers don't just survive but thrive, where they can confidently plant their seeds, secure their finances, and connect with buyers who value their hard work. 
+**Market Opportunity:** Small-scale farmers represent a colossal market opportunity. Globally, they make up more than 90% of all farms and produce about 80% of the world's food. In Africa alone, smallholder farmers account for nearly 70% of the population and constitute a vital economic force. Yet, they face enormous challenges, with over 80% living below the poverty line, struggling to access finance, and battling crop loss due to insufficient information and support.
 
-Why we are Unique: 
-Esengo-ID and the Esengo Platform stand out in the market due to their unwavering commitment to putting Farmers first. 
-Unlike many solutions that prioritize profit margins, Esengo is driven by a mission to empower individuals and businesses within the supply chain. Esengo-ID ensures user privacy, security, and convenience by employing VC technology, allowing users to own and share their credentials without sacrificing sensitive information. This unique approach, which makes the application act on behalf of the user first, fosters trust, authenticity and accountability, making Esengo a game-changer in an industry often plagued by inefficiency and opacity. With Esengo-ID and the Platform, the future of supply chain management is not just about getting the cheapest food, but distance, reputation, production methods, will all play a part.
+The digital transformation of agriculture is well underway, with the global smart agriculture market expected to grow to $23.2 billion by 2025. This growth highlights a substantial demand for technology-driven solutions that can enhance efficiency and profitability in the agriculture sector.
 
-**Join the Movement:** We're not merely seeking partners; we're building a community of visionaries who believe in a fairer, more sustainable future for farmers. Together, we can transform the challenges faced by small-scale farmers into opportunities for growth and prosperity. Join us on this remarkable journey to empower farmers, secure our food supply, and create a brighter future for all. Esengo: Empowering Farmers for a Fairer Future
+Esengo is uniquely positioned to tap into this massive market. By providing farmers with essential resources, data-driven insights, and direct access to buyers, we empower them to boost their yields and income. As we bring these advantages to small-scale farmers across Africa and beyond, we aim to be at the forefront of driving positive change in the agricultural industry.
+
+Unique Advantage: Esengo's unique advantage lies in its client-centric approach and the integration of Verifiable Credentials (VCs) into its core functionalities. Unlike traditional supply chain solutions, Esengo prioritises the individual user, allowing them to maintain control over their identity and data. This empowers users to engage confidently in supply chain transactions while ensuring their privacy and security, without revealing their internal business operations. This unique feature makes Esengo the only initiative worldwide that wants the supply chain to stay siloed, working with the current supply chain process and incentives instead of going against it.
+
+The incorporation of VCs enhances trust and transparency within the supply chain. Users can securely exchange information and credentials, such as product certifications or transaction records, with ease. This not only streamlines business processes but also fosters trust among stakeholders.
+
+Esengo also stands out for its use of the Dutch auction system in the Esengo Platform, enabling fair and efficient trades between users who may not have prior trust relationships. This innovation opens up new opportunities for local-to-local trading and strengthens community ties within the supply chain.
 
 ## Project: Esengo Food Trading Platform 
 
@@ -118,7 +123,7 @@ graph TD
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNTA0NTQ5LC0xMjkwNzkyMTU5LDYzOT
-MxNDUxNCw4NzQ1MTI0NjIsLTE1MDg1NDQyNzksLTExNzYyMDA1
-ODddfQ==
+eyJoaXN0b3J5IjpbLTYzNjI4NDYzNiw3NTE1MDQ1NDksLTEyOT
+A3OTIxNTksNjM5MzE0NTE0LDg3NDUxMjQ2MiwtMTUwODU0NDI3
+OSwtMTE3NjIwMDU4N119
 -->
