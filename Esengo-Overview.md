@@ -93,9 +93,10 @@ At Esengo, our mission isn't just about making profits; it's about creating a su
     -   Measures how efficiently a company manages its inventory.
     -   Formula: Inventory Turnover=Cost of Goods SoldAverage InventoryInventoryTurnover=AverageInventoryCostofGoodsSold​
 -   **Accounts Receivable Turnover**:
-    
+    $$Accounts\,Receivable\,Turnover = \frac{Net\,Sales}{Average\,Accounts\,Receivable}$$
     -   Measures how quickly a company collects payments from customers.
     -   Formula: Accounts Receivable Turnover=Net SalesAverage Accounts ReceivableAccountsReceivableTurnover=AverageAccountsReceivableNetSales​
+
 -   **Accounts Payable Turnover**:
     
     -   Measures how quickly a company pays its suppliers.
@@ -139,6 +140,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU3MTg4NTQsLTE1MDg1NDQyNzksLT
-ExNzYyMDA1ODddfQ==
+eyJoaXN0b3J5IjpbOTE5NzIxNTg2LC0xNTA4NTQ0Mjc5LC0xMT
+c2MjAwNTg3XX0=
 -->
