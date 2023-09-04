@@ -140,6 +140,34 @@ The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ i
 
 
 ## UML diagrams
+```mermaid
+classDiagram
+  class EsengoID {
+    - id: string
+    - name: string
+    + authenticateUser(username: string, password: string): boolean
+    + updateUserProfile(userId: string, data: UserProfile): boolean
+    + generateVC(credentials: CredentialData): VerifiedCredential
+  }
+
+  class UserProfile {
+    - userId: string
+    - firstName: string
+    - lastName: string
+    - email: string
+    + getFullName(): string
+  }
+
+  class VerifiedCredential {
+    - id: string
+    - issuer: string
+    - subject: string
+    - data: string
+  }
+
+  EsengoID --|> UserProfile
+  EsengoID --|> VerifiedCredential
+```
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
@@ -164,7 +192,23 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
+```
+graph TD
+  start --> authenticate
+  authenticate -->|Success| dashboard
+  authenticate -->|Failure| retry
+  dashboard --> viewData
+  dashboard --> updateProfile
+  updateProfile -->|Success| confirmation
+  updateProfile -->|Failure| retry
+  viewData --> logout
+  retry --> authenticate
+  logout --> start
+  confirmation --> dashboard
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTY5NzY5LDg3NDUxMjQ2MiwtMTUwOD
-U0NDI3OSwtMTE3NjIwMDU4N119
+eyJoaXN0b3J5IjpbLTEyNzU5NDkzNTUsODc0NTEyNDYyLC0xNT
+A4NTQ0Mjc5LC0xMTc2MjAwNTg3XX0=
 -->
