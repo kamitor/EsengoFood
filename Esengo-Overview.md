@@ -9,7 +9,9 @@
 
 **The Esengo Solution:** Picture an app that becomes your farming ally. Esengo-ID isn't just about helping tracing your food's journey; it's about transforming the way farmers do business. It connects them with buyers, helping them secure fair prices and create stable incomes. It helps deal with logistical transport, it helps them to plan for the next season, it allows them to ask for loans and funding, and it helps them find the right things to do. With the Esengo Trading Platform, farmers can discover what crops are in demand and when, so they can make informed decisions. It's like having a digital partner to navigate the complexities of farming in the modern world.
 
-**Why Esengo Matters**: We're passionate about leveling the playing field for small-scale farmers. By reducing uncertainty, providing access to markets, and fostering financial stability, we're changing lives. Imagine a world where farmers don't just survive but thrive, where they can confidently plant their seeds, secure their finances, and connect with buyers who value their hard work.
+**Why Esengo Matters**: We're passionate about leveling the playing field for small-scale farmers. By reducing uncertainty, providing access to markets, and fostering financial stability, we're changing lives. Imagine a world where farmers don't just survive but thrive, where they can confidently plant their seeds, secure their finances, and connect with buyers who value their hard work. 
+
+Why we are Unique: 
 
 **Join the Movement:** We're not merely seeking partners; we're building a community of visionaries who believe in a fairer, more sustainable future for farmers. Together, we can transform the challenges faced by small-scale farmers into opportunities for growth and prosperity. Join us on this remarkable journey to empower farmers, secure our food supply, and create a brighter future for all. Esengo: Empowering Farmers for a Fairer Future
 
@@ -139,8 +141,8 @@ The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ i
     -   _Description_: This formula measures operational efficiency by calculating the ratio of output achieved to the input used. It reflects how efficiently resources are utilized in the production process, contributing to overall productivity.
 
 
-## UML diagrams
-
+## Esengo working diagrams
+Detailed below is how the system will function
 
 ```mermaid
 graph TD
@@ -179,6 +181,6 @@ graph TD
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5MzE0NTE0LDg3NDUxMjQ2MiwtMTUwOD
-U0NDI3OSwtMTE3NjIwMDU4N119
+eyJoaXN0b3J5IjpbLTIwOTAyMjQ2MDIsNjM5MzE0NTE0LDg3ND
+UxMjQ2MiwtMTUwODU0NDI3OSwtMTE3NjIwMDU4N119
 -->
