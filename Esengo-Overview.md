@@ -74,7 +74,8 @@ https://github.com/kamitor/EsengoFood/blob/master/Grants%20Esengo.md
 
 ## Research Topics
  
- 
+ ## ESENGO Designs
+ https://www.figma.com/file/6Dub7nc1xbZrWHwCV2pIc7/Esengo?type=design&node-id=0-1&mode=design&t=JxVBmrsWNogcM7B6-0
 
 
 ## Esengo working diagrams
@@ -117,7 +118,7 @@ graph TD
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTEwMzQyNywtMTI5MDc5MjE1OSw2Mz
-kzMTQ1MTQsODc0NTEyNDYyLC0xNTA4NTQ0Mjc5LC0xMTc2MjAw
-NTg3XX0=
+eyJoaXN0b3J5IjpbNzUxNTA0NTQ5LC0xMjkwNzkyMTU5LDYzOT
+MxNDUxNCw4NzQ1MTI0NjIsLTE1MDg1NDQyNzksLTExNzYyMDA1
+ODddfQ==
 -->
