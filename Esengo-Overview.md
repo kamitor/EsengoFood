@@ -140,75 +140,45 @@ The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ i
 
 
 ## UML diagrams
-```mermaid
-classDiagram
-  class EsengoID {
-    - id: string
-    - name: string
-    + authenticateUser(username: string, password: string): boolean
-    + updateUserProfile(userId: string, data: UserProfile): boolean
-    + generateVC(credentials: CredentialData): VerifiedCredential
-  }
 
-  class UserProfile {
-    - userId: string
-    - firstName: string
-    - lastName: string
-    - email: string
-    + getFullName(): string
-  }
-
-  class VerifiedCredential {
-    - id: string
-    - issuer: string
-    - subject: string
-    - data: string
-  }
-
-  EsengoID --|> UserProfile
-  EsengoID --|> VerifiedCredential
-```
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
 ```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
-
-```
 graph TD
-  start --> authenticate
-  authenticate -->|Success| dashboard
-  authenticate -->|Failure| retry
-  dashboard --> viewData
-  dashboard --> updateProfile
-  updateProfile -->|Success| confirmation
-  updateProfile -->|Failure| retry
-  viewData --> logout
-  retry --> authenticate
-  logout --> start
-  confirmation --> dashboard
+  subgraph Esengo-ID
+    A[User logs in to Esengo-ID]
+    B[User accesses supply chain data]
+    C[Esengo-ID verifies user identity]
+    D[Access granted]
+    E[User interacts with the supply chain]
+    F[Data exchanged with supply chain]
+    G[Transactions recorded on the blockchain]
+  end
+
+  subgraph Supply Chain
+    H[Supply chain actors]
+    I[Data and transactions]
+    J[Blockchain]
+  end
+
+  A --> B
+  B --> C
+  C -->|Verified| D
+  D --> E
+  E --> F
+  F --> G
+
+  G -->|Immutable Record| J
+  H -->|Data and Transactions| I
+  I -->|Blockchain| J
+  G -->|Immutable Record| J
+  H -->|Data and Transactions| I
+  I -->|Blockchain| J
+```
+
+
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzU5NDkzNTUsODc0NTEyNDYyLC0xNT
-A4NTQ0Mjc5LC0xMTc2MjAwNTg3XX0=
+eyJoaXN0b3J5IjpbNjM5MzE0NTE0LDg3NDUxMjQ2MiwtMTUwOD
+U0NDI3OSwtMTE3NjIwMDU4N119
 -->
